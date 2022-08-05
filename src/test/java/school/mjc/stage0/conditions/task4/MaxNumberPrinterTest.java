@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class MaxNumberPrinterTest extends BaseIOTest {
+class  MaxNumberPrinterTest extends BaseIOTest {
 
     @Test
     void printGreatestWhenAllUniquePrintsGreatest() {
